@@ -1,0 +1,74 @@
+[
+    {
+        "_id": "000002",
+        "isSeller": true,
+        "fullName": "Eliran Dahan",
+        "email": "eliran@gmail.com",
+        "password": "001",
+        "profileImg": "https://scontent.fsdv1-2.fna.fbcdn.net/v/t1.0-1/23319542_1493412967419708_6844368470430620563_n.jpg?_nc_cat=109&_nc_sid=dbb9e7&_nc_ohc=sk9uq1qoXdIAX-M4Ttl&_nc_ht=scontent.fsdv1-2.fna&oh=9bff42a418d17b991d90559c3f5bd039&oe=5EF83CE7",
+        "savedItems": [],
+        "createdAt": 15553132132.0,
+        "lastLoginAt": 1552355111.0,
+        "isAdmin": false,
+        "address": {
+            "country": "israel",
+            "city": "tel aviv",
+            "street": "ben yehuda",
+            "houseNumber": 10,
+            "apartmentNumber": 12
+        },
+        "paymentMethod": "xxx",
+        "buyItems": [
+            {
+                "_id": 5555,
+                "title": "big knife",
+                "createdAt": 15553132132.0,
+                "status": {
+                    "live": false,
+                    "fullPaid": true,
+                    "discount": 0
+                }
+            }
+        ],
+        "sellItems": [
+            {
+                "_id": 5555,
+                "title": "big knife",
+                "description": "yes yes yes jkflflfmf;m f;kfmf;kfm f;fmf;m ff;lfm;",
+                "createdAt": 15553132132.0,
+                "status": {
+                    "live": false,
+                    "register": 20,
+                    "discounts": {
+                        "50%": 1,
+                        "100%": 0
+                    },
+                    "fullPaid": 10
+                }
+            }
+        ],
+        "rate": 4.5,
+        "reviews": [
+            {
+                "miniUser": {
+                    "_id": "000002",
+                    "fullName": "yossi avraham",
+                    "profileImg": "https://media.gettyimages.com/photos/smiling-lawyer-sitting-at-desk-in-office-picture-id104821116?s=612x612"
+                },
+                "rate": 4.0,
+                "reviewTxt": "the best food we ever ate ",
+                "createdAt": 15523166612.0
+            },
+            {
+                "miniUser": {
+                    "_id": "000003",
+                    "fullName": "Loren Mills",
+                    "profileImg": "https://www.thebalance.com/thmb/jCOulTG9w5WGoY6lZIHKqOQlY64=/3633x3633/smart/filters:no_upscale()/Gettywomanlawyer-5955ab903df78cdc296e8f7e.jpg"
+                },
+                "rate": 5.0,
+                "reviewTxt": "Wowwwwwww, I can't event tell you how crazy was the party he hosted! his in the top 5 for me ! ",
+                "createdAt": 15523166612.0
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+        {
+            "_id": 5555,
+            "sellerId": 2222,
+            "title": "big knife",
+            "description": "yes yes yes jkflflfmf;m f;kfmf;kfm f;fmf;m ff;lfm;",
+            "mainImage": "https://shop.harborfreight.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/6/3/63337_W3.jpg",
+            "images": [
+        
+            ],
+            "price": 80,
+            "createdAt": 15553132132.0,
+            "status": {
+                "live": false,
+                "register": 20,
+                "discounts": {
+                    "50%": 1,
+                    "100%": 0
+                },
+                "fullPaid": 10
+            }
+        }
+]
+
