@@ -1,0 +1,16 @@
+header {
+    height: 50px;
+    width: 100vw;
+    border-top: 3px solid #009624;
+    h2,
+    p {
+        color: white;
+        margin: 0;
+    }
+
+    .logo {
+        height: 100%;
+        width: 150px;
+        align-self: center;
+    }
+}
